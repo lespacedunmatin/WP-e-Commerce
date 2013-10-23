@@ -19,11 +19,11 @@ msgstr ""
 
 #: wpsc-theme/functions/wpsc-transaction_results_functions.php:253
 msgid "<hr>Total Shipping: %s\n"
-msgstr "<hr> Total des frais d'envoi:%s\n"
+msgstr "<hr>Total des frais d'envoi:%s\n"
 
 #: wpsc-includes/ajax.functions.php:1049
 msgid "Sorry something has gone wrong with your download!"
-msgstr "Désolé, quelque chose s'est mal passé avec votre téléchargement !"
+msgstr "Désolé, quelque chose s'est mal passé avec votre téléchargement&nbsp;!"
 
 #: wpsc-admin/includes/display-items-functions.php:972
 msgid "The name is how it appears on your site. <br><div class=\"error\"><strong>Please read this carefully before starting to work with variations:</strong><br />Variations in WP e-Commerce are divided into sets. For example set <strong>Color</strong> could have variations <strong>Red, Green,</strong> and <strong>Blue</strong>. To create a set simply enter <strong>Name</strong> and push Enter key on your keyboard or click <strong>Add New Variation/Set</strong> button in the bottom of this page. Now you can select the variation set that you've just created from <strong>Variation set</strong> drop-down menu and add some variations to it.</div>"
@@ -35,7 +35,7 @@ msgstr ""
 
 #: wpsc-core/wpsc-functions.php:240
 msgid "Please backup your website before updating!"
-msgstr ""
+msgstr "Merci de faire une sauvegarde de votre site avant de faire la mise à jour&nbsp;!"
 
 #: wpsc-admin/display-update.page.php:75
 msgid "Note: It looks like you have custom permalinks, you will need to refresh your permalinks <a href=\"%s\">here</a>"
@@ -55,7 +55,7 @@ msgstr "En raison d'un problème concernant les Permaliens de WordPress et les T
 
 #: wpsc-admin/includes/settings-pages/general.php:75
 msgid "Select the markets you are selling products to."
-msgstr "Sélectionnez les marchés auxquels vous vendez vos produits"
+msgstr "Sélectionnez les marchés auxquels vous vendez vos produits."
 
 #: wpsc-admin/includes/settings-pages/checkout.php:31
 msgid "Misc Checkout Options"
@@ -69,7 +69,7 @@ msgstr[1] "%d sujets"
 
 #: wpsc-theme/wpsc-user-log.php:162
 msgid "Login &raquo;"
-msgstr "Se connecter &raquo"
+msgstr "Se connecter &raquo;"
 
 #: wpsc-admin/includes/settings-pages/general.php:61
 msgid "Select: <a href=\"%1$s\"  class=\"wpsc_select_all\" title=\"All\">All</a> <a href=\"%1$s\" class=\"wpsc_select_none\" title=\"None\">None</a>"
@@ -201,7 +201,7 @@ msgstr "Prénom de Facturation"
 
 #: wpsc-shipping/ups_20.php:232
 msgid "Insure shipment against cart total"
-msgstr ""
+msgstr "Assurer le colis pour le total du panier"
 
 #: wpsc-admin/includes/settings-pages/checkout.php:190
 #: wpsc-admin/admin.php:385
@@ -218,7 +218,7 @@ msgstr "Cliquez et glissez pour ordonner les champs"
 
 #: wpsc-admin/includes/settings-pages/general.php:150
 msgid "Preview:"
-msgstr "Aperçu:"
+msgstr "Aperçu&nbsp;:"
 
 #: wpsc-admin/includes/settings-pages/shipping.php:162
 msgid "Sales over or equal to: %1$s<input type=\"text\" size=\"6\" name=\"wpsc_options[shipping_discount_value]\" value=\"%2$s\" id=\"shipping_discount_value\" /> will receive free shipping."
@@ -237,8 +237,8 @@ msgstr[1] "%s réglages mis à jour"
 #: wpsc-admin/display-options-settings.page.php:286
 msgid "%s Shipping option updated."
 msgid_plural "%s Shipping option updated."
-msgstr[0] "%s réglage mis à jour"
-msgstr[1] "%s réglages mis à jour"
+msgstr[0] "%s option de livraison mise à jour"
+msgstr[1] "%s options de livraison mises à jour"
 
 #: wpsc-admin/admin-form-functions.php:64
 msgid "Conditions"
@@ -247,8 +247,8 @@ msgstr "Conditions"
 #: wpsc-admin/includes/display-items-functions.php:280
 msgid "%s of them is reserved for pending or recently completed orders."
 msgid_plural "%s of them are reserved for pending or recently completed orders."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%s d’entre eux est réservé pour une commande en cours ou récente."
+msgstr[1] "%s d’entre eux sont réservés pour des commandes en cours ou récentes."
 
 #: wpsc-admin/includes/display-items-functions.php:995
 #: wpsc-admin/includes/display-items-functions.php:1118
@@ -257,7 +257,7 @@ msgstr "Utiliser comme image à la une"
 
 #: wpsc-admin/includes/display-items-functions.php:715
 msgid "Merchant Notes:"
-msgstr "Notes du vendeur :"
+msgstr "Notes du vendeur&nbsp;:"
 
 #: wpsc-admin/admin-form-functions.php:117
 msgid "Add Conditions"
@@ -269,11 +269,11 @@ msgstr "Ville (Facturation)"
 
 #: wpsc-shipping/usps_20.php:220
 msgid "This setting will provide rates based on the dimensions from eacy item in your cart"
-msgstr ""
+msgstr "Ce règlage fournira des taux basés sur les dimensions de chaque objet de votre panier"
 
 #: wpsc-admin/admin.php:178
 msgid "<a target='_blank' href='http://getshopped.org/resources/docs/building-your-store/sales/'>About the Sales Page</a>"
-msgstr ""
+msgstr "<a target='_blank' href='http://getshopped.org/resources/docs/building-your-store/sales/'>Page à propos des ventes</a>"
 
 #: wpsc-shipping/usps_20.php:224
 msgid "Select Services"
@@ -293,7 +293,7 @@ msgstr "Nom (Facturation)"
 
 #: wpsc-admin/display-upgrades.page.php:88
 msgid "Name:"
-msgstr "Nom :"
+msgstr "Nom&nbsp;:"
 
 #: wpsc-admin/display-sales-logs.php:448
 msgid "Send Custom Message"
@@ -301,7 +301,7 @@ msgstr "Envoyer un message personnel"
 
 #: wpsc-admin/display-upgrades.page.php:92
 msgid "API Key:"
-msgstr "Clef d'API:"
+msgstr "Clef d&rsquo;API&nbsp;:"
 
 #: wpsc-admin/includes/settings-pages/checkout.php:9
 msgid "Drag"
@@ -309,19 +309,19 @@ msgstr "Glisser"
 
 #: wpsc-shipping/usps_20.php:196
 msgid "Don't have a USPS API account ? "
-msgstr "Vous n'avez pas de compte  API USPS ?"
+msgstr "Vous n&rsquo;avez pas de compte API USPS&nbsp;?"
 
 #: wpsc-shipping/ups_20.php:247
 msgid "Rate each quantity of items in a cart as its own package using dimensions on product"
-msgstr "Evaluer chaque quantité d'articles du panier avec son propre emballage à l'aide des dimensions du produit"
+msgstr "Evaluer chaque quantité d'articles du panier avec son propre emballage à l&rsquo;aide des dimensions du produit"
 
 #: wpsc-admin/includes/display-items-functions.php:748
 msgid "Prohibited <a href=\"http://checkout.google.com/support/sell/bin/answer.py?answer=75724\">by Google?</a>"
-msgstr "Interdit <a href=\"http://checkout.google.com/support/sell/bin/answer.py?answer=75724\">par Google?</a>"
+msgstr "Interdit <a href=\"http://checkout.google.com/support/sell/bin/answer.py?answer=75724\">par Google&nbsp;?</a>"
 
 #: wpsc-admin/includes/display-items-functions.php:855
 msgid "Your preview for this product:"
-msgstr "Votre aperçu pour ce produit :"
+msgstr "Votre aperçu pour ce produit&nbsp;:"
 
 #: wpsc-admin/display-sales-logs.php:524
 msgid "Update Notes"
@@ -329,7 +329,7 @@ msgstr "Notes de mise à jour"
 
 #: wpsc-admin/includes/settings-pages/checkout.php:185
 msgid "more options"
-msgstr "plus d'options"
+msgstr "plus d&rsquo;options"
 
 #: wpsc-admin/includes/settings-pages/checkout.php:13
 msgid "Mandatory"
@@ -427,7 +427,7 @@ msgstr ""
 
 #: wpsc-shipping/usps_20.php:256
 msgid "International Package Type"
-msgstr "Type d'emballage international"
+msgstr "Type d&rsquo;emballage international"
 
 #: wpsc-shipping/usps_20.php:279
 msgid "First Class Mail Type"
@@ -443,7 +443,7 @@ msgstr "Ajouter une couche"
 
 #: wpsc-merchants/paypal-express.merchant.php:639
 msgid "Country:"
-msgstr "Pays :"
+msgstr "Pays&nbsp;:"
 
 #: wpsc-merchants/paypal-express.merchant.php:256
 msgid "API Username"
@@ -456,7 +456,7 @@ msgstr "Type de serveur"
 #: wpsc-merchants/paypal-express.merchant.php:423
 #: wpsc-merchants/paypal-express.merchant.php:602
 msgid "Error Number:"
-msgstr "Numéro d'erreur :"
+msgstr "Numéro d&rsquo;erreur&nbsp;:"
 
 #: wpsc-merchants/paypal-express.merchant.php:298
 msgid "Convert to"
@@ -468,15 +468,15 @@ msgstr "Visa"
 
 #: wpsc-merchants/paypal-express.merchant.php:263
 msgid "API Password"
-msgstr "Mot de passe de l'API"
+msgstr "Mot de passe de l&rsquo;API"
 
 #: wpsc-merchants/paypal-pro.merchant.php:381
 msgid "Credit Card Expiry *"
-msgstr "Date d'expiration de la carte de crédit *"
+msgstr "Date d&rsquo;expiration de la carte de crédit&nbsp;*"
 
 #: wpsc-merchants/paypal-express.merchant.php:431
 msgid "Long Message:"
-msgstr "Message long :"
+msgstr "Message long&nbsp;:"
 
 #: wpsc-merchants/paypal-pro.merchant.php:413
 msgid "MasterCard"
@@ -496,7 +496,7 @@ msgstr "PayPal Express Checkout 2.0"
 
 #: wpsc-merchants/paypal-pro.merchant.php:375
 msgid "Credit Card Number *"
-msgstr "Numéro de carte de crédit *"
+msgstr "Numéro de carte de crédit&nbsp;*"
 
 #: wpsc-theme/wpsc-cart_widget.php:67
 msgid "Empty Your Cart"
@@ -508,19 +508,19 @@ msgstr "Production"
 
 #: wpsc-merchants/paypal-express.merchant.php:270
 msgid "API Signature"
-msgstr "Signature de l'API"
+msgstr "Signature de l&rsquo;API"
 
 #: wpsc-merchants/paypal-express.merchant.php:622
 msgid "City:"
-msgstr "Ville :"
+msgstr "Ville&nbsp;:"
 
 #: wpsc-merchants/paypal-express.merchant.php:628
 msgid "State:"
-msgstr "État :"
+msgstr "État&nbsp;:"
 
 #: wpsc-merchants/paypal-express.merchant.php:633
 msgid "Postal code:"
-msgstr "Code postal :"
+msgstr "Code postal&nbsp;:"
 
 #: wpsc-merchants/paypal-pro.merchant.php:415
 msgid "Amex"
@@ -528,11 +528,11 @@ msgstr "Amex"
 
 #: wpsc-merchants/paypal-pro.merchant.php:404
 msgid "CVV *"
-msgstr "CVV *"
+msgstr "CVV&nbsp;*"
 
 #: wpsc-merchants/paypal-pro.merchant.php:409
 msgid "Card Type *"
-msgstr "Type de carte *"
+msgstr "Type de carte&nbsp;*"
 
 #: wpsc-merchants/paypal-express.merchant.php:18
 msgid "PayPal Express"
@@ -544,23 +544,23 @@ msgstr "Sandbox (en test)"
 
 #: wpsc-merchants/paypal-express.merchant.php:378
 msgid "The PayPal API has returned an error!"
-msgstr "L'API PayPal a renvoyé une erreur !"
+msgstr "L'API PayPal a renvoyé une erreur&nbsp;!"
 
 #: wpsc-merchants/paypal-express.merchant.php:616
 msgid "Street 2:"
-msgstr "Rue 2 :"
+msgstr "Rue 2&nbsp;:"
 
 #: wpsc-merchants/paypal-express.merchant.php:610
 msgid "Street 1:"
-msgstr "Rue 1 :"
+msgstr "Rue 1&nbsp;:"
 
 #: wpsc-merchants/paypal-express.merchant.php:606
 msgid "Shipping Address:"
-msgstr "Adresse de livraison :"
+msgstr "Adresse de livraison&nbsp;:"
 
 #: wpsc-merchants/paypal-express.merchant.php:427
 msgid "Short Message:"
-msgstr "Message court :"
+msgstr "Message court&nbsp;:"
 
 #: wpsc-admin/includes/settings-pages/import.php:86
 msgid "Stock Quantity Limit"
@@ -584,13 +584,13 @@ msgstr "Quantité en stock"
 
 #: wpsc-admin/includes/settings-pages/import.php:105
 msgid "There was an error while uploading your csv file."
-msgstr "Une erreur s'est produite lors de l'envoi de votre fichier csv."
+msgstr "Une erreur s&rsquo;est produite lors de l&rsquo;envoi de votre fichier csv."
 
 #: wpsc-includes/ajax.functions.php:85
 msgid "Sorry, but there is only %s of this item in stock."
 msgid_plural "Sorry, but there are only %s of this item in stock."
-msgstr[0] "Désolé, il n'y en a que %s en stock"
-msgstr[1] "Désolé, il n'y en a que %s en stock"
+msgstr[0] "Désolé, il n&rsquo;y en a que %s en stock"
+msgstr[1] "Désolé, il n&rsquo;y en a que %s en stock"
 
 #: wpsc-admin/display-options-settings.page.php:116
 msgctxt "Marketing settings tab in Settings->Store page"
@@ -641,7 +641,7 @@ msgstr "Commande"
 
 #: wpsc-admin/admin.php:778
 msgid "Last four months of sales on a per product basis:"
-msgstr "Les quatre derniers mois de ventes par produits:"
+msgstr "Les quatre derniers mois de ventes par produits&nbsp;:"
 
 #: wpsc-admin/display-options-settings.page.php:109
 msgctxt "General settings tab in Settings->Store page"
@@ -869,11 +869,11 @@ msgstr "PAB"
 
 #: wpsc-admin/display-update.page.php:68
 msgid "Updating Product Files..."
-msgstr "Mise à jour des fichiers de produits..."
+msgstr "Mise à jour des fichiers de produits&hellip;"
 
 #: wpsc-admin/includes/display-items-functions.php:132
 msgid "This Product has variations, to edit the price please use the <a href=\"#variation_control\">Variation Controls</a> below."
-msgstr "Ce produit a des variantes, pour modifier le prix, veuillez d'utiliser la <a href=\"#variation_control\"> Gestion des variantes </a> ci-dessous."
+msgstr "Ce produit a des variantes, pour modifier le prix, veuillez utiliser la <a href=\"#variation_control\">Gestion des variantes</a> ci-dessous."
 
 #: wpsc-admin/includes/display-items-functions.php:574
 msgid "Pounds"
@@ -885,31 +885,31 @@ msgstr "Tous les marchés"
 
 #: wpsc-theme/wpsc-shopping_cart_page.php:443
 msgid "I agree to The <a class='thickbox' target='_blank' href='%s' class='termsandconds'>Terms and Conditions</a>"
-msgstr ""
+msgstr "J&rsquo;accepte les <a class='thickbox' target='_blank' href='%s' class='termsandconds'>Termes et Conditions</a>"
 
 #: wpsc-admin/display-items.page.php:143
 msgid " oz."
-msgstr "oz."
+msgstr " oz."
 
 #: wpsc-admin/display-update.page.php:60
 msgid "Updating Categories..."
-msgstr "Mise à jour des catégories..."
+msgstr "Mise à jour des catégories&hellip;"
 
 #: wpsc-admin/includes/display-items-functions.php:575
 msgid "Ounces"
-msgstr "Onces"
+msgstr "Ounces"
 
 #: wpsc-admin/display-update.page.php:73
 msgid "WP e-Commerce updated successfully!"
-msgstr "WP e-commerce a été mis à jour avec succès!"
+msgstr "WP e-commerce a été mis à jour avec succès&nbsp;!"
 
 #: wpsc-admin/display-items.page.php:140
 msgid " lbs."
-msgstr "lbs."
+msgstr " lbs."
 
 #: wpsc-admin/display-update.page.php:62
 msgid "Updating Variations..."
-msgstr "Mise à jour des variations..."
+msgstr "Mise à jour des variations&hellip;"
 
 #: wpsc-admin/includes/display-items-functions.php:806
 msgctxt "External product link target"
@@ -930,7 +930,7 @@ msgstr "kgs."
 
 #: wpsc-admin/display-update.page.php:66
 msgid "Updating Child Products..."
-msgstr "Mise à jour des produits enfants ..."
+msgstr "Mise à jour des produits enfants&nbsp;"
 
 #: wpsc-admin/display-items.page.php:278
 msgctxt "Show all [category name]"
@@ -939,15 +939,15 @@ msgstr "Afficher tout %s"
 
 #: wpsc-admin/display-update.page.php:64
 msgid "Updating Products..."
-msgstr "Mise à jour des produits..."
+msgstr "Mise à jour des produits&hellip;"
 
 #: wpsc-admin/display-update.page.php:70
 msgid "Updating Database..."
-msgstr "Mise à jour de la base de données..."
+msgstr "Mise à jour de la base de données&hellip;"
 
 #: wpsc-admin/admin.php:296
 msgid "Off Site Product link"
-msgstr ""
+msgstr "Lien vers un produits en dehors du site"
 
 #: wpsc-admin/includes/display-items-functions.php:149
 msgid "+ New Currency"
@@ -1002,11 +1002,11 @@ msgstr "Ajouter un nouveau"
 
 #: wpsc-includes/processing.functions.php:126
 msgid "Remaining stock of %s is 0. Product was unpublished."
-msgstr ""
+msgstr "Le stock restant de %s est de 0. Le produit a été dépublié."
 
 #: wpsc-admin/includes/settings-pages/import.php:48
 msgid "Select if you would like to import your products in as Drafts or Publish them right away."
-msgstr ""
+msgstr "Choisissez si vous préférez importer vos produits dans des brouillons ou les publier directement."
 
 #: wpsc-includes/ajax.functions.php:87
 msgid "Sorry, but the item \"%s\" is out of stock."
@@ -1034,7 +1034,7 @@ msgstr "Ceci est la taille de vignette qui sera affichée sur la page produit. V
 
 #: wpsc-admin/includes/display-items-functions.php:1041
 msgid "Single Product Page Thumbnail:"
-msgstr "Vignette de la Page Produit :"
+msgstr "Vignette de la Page Produit&nbsp;:"
 
 #: wpsc-admin/includes/display-items-functions.php:1057
 msgid "Products Page Thumbnail Size:"
@@ -1069,7 +1069,7 @@ msgstr "et plus"
 
 #: wpsc-theme/functions/wpsc-transaction_results_functions.php:197
 msgid " &nbsp; Shipping: %s\n"
-msgstr "&nbsp; Livraison : %s\n"
+msgstr "&nbsp; Livraison&nbsp;: %s\n"
 
 #: wpsc-theme/functions/wpsc-transaction_results_functions.php:193
 msgid " - Shipping: %s\n"
@@ -1154,7 +1154,7 @@ msgstr "CYP"
 
 #: wpsc-shipping/australiapost.php:117
 msgid "5. If no product dimensions are defined, then default package dimensions of 100mm x 100mm x 100mm will be used."
-msgstr ""
+msgstr "5. Si les dimensions du produit ne sont pas définies, les dimensions 100mm x 100mm x 100mm seront utilisées par défaut."
 
 #: wpsc-updates/currency_list.php:24
 msgid "KRW"
@@ -1186,7 +1186,7 @@ msgstr "GIP"
 
 #: wpsc-theme/wpsc-shopping_cart_page.php:310
 msgid "Your order will be shipped to the billing address"
-msgstr "Votre commande sera expédiée à l'adresse de facturation"
+msgstr "Votre commande sera expédiée à l&rsquo;adresse de facturation"
 
 #: wpsc-updates/currency_list.php:15
 #: wpsc-updates/currency_list.php:209
@@ -1548,7 +1548,7 @@ msgstr "Identique à l'adresse de facturation :"
 
 #: wpsc-admin/includes/settings-pages/presentation.php:66
 msgid "Error: some files could not be copied. Please make sure that theme folder is writable."
-msgstr "Erreur: Certains fichiers ne peuvent être copiés. Veuillez vérifier que le dossier du thème est accessible en écriture."
+msgstr "Erreur&nbsp;: Certains fichiers ne peuvent être copiés. Veuillez vérifier que le dossier du thème est accessible en écriture."
 
 #: wpsc-updates/currency_list.php:3
 #: wpsc-updates/currency_list.php:13
@@ -1862,25 +1862,25 @@ msgstr "Merci de saisir un numéro de carte valide."
 
 #: wpsc-admin/includes/display-items-functions.php:1254
 msgid "Stock:"
-msgstr "Stock :"
+msgstr "Stock&nbsp;:"
 
 #: wpsc-admin/includes/display-items-functions.php:185
 #: wpsc-admin/includes/display-items-functions.php:1262
 msgid "Price:"
-msgstr "Prix :"
+msgstr "Prix&nbsp;:"
 
 #: wpsc-admin/includes/display-items-functions.php:1270
 msgid "Sale Price:"
-msgstr "Prix promo :"
+msgstr "Prix promo&nbsp;:"
 
 #: wpsc-admin/includes/display-items-functions.php:249
 #: wpsc-admin/includes/display-items-functions.php:1238
 msgid "SKU:"
-msgstr "SKU :"
+msgstr "SKU&nbsp;:"
 
 #: wpsc-admin/admin.php:849
 msgid "Error: you don't have required permissions to edit this product"
-msgstr "Erreur : vous ne disposez pas des autorisations nécessaires pour modifier ce produit"
+msgstr "Erreur&nbsp;: vous ne disposez pas des autorisations nécessaires pour modifier ce produit"
 
 #: wpsc-admin/admin.php:269
 #: wpsc-admin/admin.php:355
@@ -1889,11 +1889,11 @@ msgstr "Des modifications non enregistrées ont été détectés. Cliquez sur OK
 
 #: wpsc-admin/includes/display-items-functions.php:1246
 msgid "Weight:"
-msgstr "Poids :"
+msgstr "Poids&nbsp;:"
 
 #: wpsc-includes/checkout.class.php:760
 msgid "Please enter a valid expiry date."
-msgstr "Merci de saisir une date d'expiration valide."
+msgstr "Merci de saisir une date d&rsquo;expiration valide."
 
 #: wpsc-includes/checkout.class.php:768
 #: wpsc-includes/checkout.class.php:778
